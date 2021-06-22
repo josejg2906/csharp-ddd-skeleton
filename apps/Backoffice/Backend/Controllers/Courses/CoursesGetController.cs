@@ -12,6 +12,8 @@ namespace CodelyTv.Apps.Backoffice.Backend.Controllers.Courses
     [Route("/courses")]
     public class CoursesGetController : Controller
     {
+
+
         private readonly QueryBus _bus;
 
         public CoursesGetController(QueryBus bus)

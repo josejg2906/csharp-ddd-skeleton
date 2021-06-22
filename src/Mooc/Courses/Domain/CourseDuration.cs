@@ -7,5 +7,7 @@ namespace CodelyTv.Mooc.Courses.Domain
         public CourseDuration(string value) : base(value)
         {
         }
+
+
     }
 }
